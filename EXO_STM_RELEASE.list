@@ -694,6 +694,9 @@ natives\stm\product\cutscene\ev\ev000\ev000_all_sound_bgm.scn.20
 natives\stm\product\cutscene\ev\ev000\ev000_all_sound_se.scn.20     
 natives\stm\product\cutscene\ev\ev000\ev000_all_vfx.scn.20     
 natives\stm\product\cutscene\ev\ev000\ev000_objects.scn.20     
+natives\stm\product\cutscene\ev\EV002\sound_bgm.scn.20     
+natives\stm\product\cutscene\ev\EV010\sound_bgm.scn.20     
+natives\stm\product\cutscene\ev\EV010\sound_se.scn.20     
 natives\stm\product\cutscene\ev\ev021\ev021.scn.20     
 natives\stm\product\cutscene\ev\ev021\ev021_00.scn.20     
 natives\stm\product\cutscene\ev\ev021\ev021_all_light.scn.20     
