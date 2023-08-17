@@ -22259,8 +22259,14 @@
 \natives\stm\product\scene\st0300\base\Environment\st0300_a00s.scn.20     
 \natives\stm\product\scene\st0301\base\st0301base.scn.20     
 \natives\stm\product\scene\st0301\base\Environment\EnvCullingZone.scn.20     
+\natives\stm\product\scene\st0301\base\Light\LightScene\Common.scn.20     
+\natives\stm\product\scene\st0301\base\Light\LightScene\Cubemap.scn.20     
 \natives\stm\product\scene\st0301\base\Light\LightScene\CubemapCullingZone.scn.20     
 \natives\stm\product\scene\st0301\base\Light\LightScene\LightCullingZone.scn.20     
+\natives\stm\product\scene\st0301\base\Light\LightScene\SetLight.scn.20     
+\natives\stm\product\scene\st0301\base\Light\LightScene\st0301_Probe_all.scn.20     
+\natives\stm\product\scene\st0301\base\VFX\autoSplit.scn.20     
+\natives\stm\product\scene\st0301\base\VFX\common.scn.20     
 \natives\stm\product\scene\st0301\PvP10_00\Plan_PvP_10_00.scn.20     
 \natives\stm\product\scene\st0302\base\Environment\common.scn.20     
 \natives\stm\product\scene\st0302\base\Environment\st0302_a00.scn.20     
